@@ -13,7 +13,7 @@
 * Build on business logic
 * Integrate with other enterprise systems
 
-## Architecture
+### Architecture
 
 A software architecture is a high-level view of a software system’s components, how those components behave, how they relate to each other, and how they relate to their environment, for the purpose of achieving their stated functionality.
 
